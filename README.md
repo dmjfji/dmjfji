@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @dmjfji
+- 👋 Hi, I’m @dmjfji AKA Arjun
+- 🔞I'm Actually just 10
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me you say? you dont reach me i reach you
+- 📫 Reach out to me on arjunsankar314@outlook.com
 
 <!---
 dmjfji/dmjfji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
